@@ -87,9 +87,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
 ### ⚙️ DevOps, Servers & Tools
@@ -136,7 +134,7 @@ Exploring cloud infrastructure, application hosting, deployment automation, serv
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CharithManaujayaMUTEC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=CharithManaujayaMUTEC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
     alt="Charith's GitHub Statistics"
   />
 </p>
@@ -150,7 +148,7 @@ Exploring cloud infrastructure, application hosting, deployment automation, serv
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithManaujayaMUTEC&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithManaujayaMUTEC&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
     alt="Charith's Top Languages"
   />
 </p>
