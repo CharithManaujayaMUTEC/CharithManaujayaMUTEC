@@ -157,29 +157,6 @@ Exploring cloud infrastructure, application hosting, deployment automation, serv
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -188,17 +165,6 @@ Exploring cloud infrastructure, application hosting, deployment automation, serv
     alt="GitHub Contribution Activity Graph"
   />
 </p>
-
----
-
-## 💡 Current Focus
-
-- Building scalable full-stack applications
-- Improving DevOps and CI/CD workflows
-- Exploring cloud engineering and infrastructure
-- Learning AI, machine learning and RAG systems
-- Developing reliable backend and data engineering solutions
-- Continuously learning new technologies
 
 ---
 
