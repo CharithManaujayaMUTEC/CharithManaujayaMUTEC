@@ -16,24 +16,6 @@
 
 ---
 
-## 💫 About Me
-
-🎓 Computer Engineering Graduate
-
-💻 Passionate about building full-stack web applications and scalable software systems.
-
-🤖 Exploring Artificial Intelligence, Machine Learning and RAG applications.
-
-📊 Interested in Data Engineering, Distributed Systems and Event-Driven Architecture.
-
-📨 Learning message brokers and asynchronous communication with RabbitMQ and Apache Kafka.
-
-⚙️ Interested in DevOps, CI/CD, Linux servers, cPanel and cloud deployment.
-
-🚀 Always building, learning and improving.
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -117,6 +99,10 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 Full-Stack Web Applications
+
+Developing practical web applications using Laravel, PHP, JavaScript, React, Node.js and relational databases.
+
 ### 🎫 Event & Ticketing Systems
 
 Developing event management and ticketing platforms with Laravel, Filament, payment workflows and seat management.
@@ -125,13 +111,9 @@ Developing event management and ticketing platforms with Laravel, Filament, paym
 
 Exploring Retrieval-Augmented Generation, Python AI applications and intelligent software systems.
 
-### 📡 Kafka & RabbitMQ Systems
+### 📡 DevOps and CI/CD
 
-Building event-driven applications and learning reliable message processing with Apache Kafka and RabbitMQ.
-
-### 🌐 Full-Stack Web Applications
-
-Developing practical web applications using Laravel, PHP, JavaScript, React, Node.js and relational databases.
+Maintaining and building devops structutres and CI/CD pipelines
 
 ---
 
@@ -189,18 +171,6 @@ Developing practical web applications using Laravel, PHP, JavaScript, React, Nod
     alt="GitHub Contribution Activity Graph"
   />
 </p>
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Build scalable and impactful software.
-- 🤖 Explore advanced AI and RAG systems.
-- 📊 Master Data Engineering and Distributed Systems.
-- 📨 Improve Kafka and RabbitMQ knowledge.
-- ⚙️ Improve Cloud, Linux, cPanel and DevOps skills.
-- 🌍 Contribute to Open Source.
-- 📚 Keep learning and growing.
 
 ---
 
