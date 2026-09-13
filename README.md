@@ -1,24 +1,24 @@
 
-<h1 align="center">Hi 👋, I'm Charith Manaujaya</h1>
+<h1 align="center">Hi 👋, I'm Charith Manujaya</h1>
 
 <h3 align="center">
-  Software Engineering Undergraduate | Full-Stack Developer | AI & Data Enthusiast
+  Computer Engineering Graduate | Full-Stack Developer | AI & Data Engineering Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+Data+Engineering+Enthusiast;Building+Projects+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+Data+Engineering+Enthusiast;Distributed+Systems+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CharithManaujayaMUTEC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/CharithManaujayaMUTEC?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=CharithManaujayaMUTEC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/CharithManaujayaMUTEC?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-🎓 Software Engineering Undergraduate
+🎓 Computer Engineering Graduate
 
 💻 Passionate about building full-stack web applications and scalable software systems.
 
@@ -26,7 +26,9 @@
 
 📊 Interested in Data Engineering, Distributed Systems and Event-Driven Architecture.
 
-☁️ Learning Cloud Technologies, DevOps and CI/CD.
+📨 Learning message brokers and asynchronous communication with RabbitMQ and Apache Kafka.
+
+⚙️ Interested in DevOps, CI/CD, Linux servers, cPanel and cloud deployment.
 
 🚀 Always building, learning and improving.
 
@@ -63,7 +65,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
 </p>
 
 ### 🌐 Web Development
@@ -74,7 +76,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -91,6 +92,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -98,13 +101,14 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-### ⚙️ Tools & DevOps
+### ⚙️ Tools, Servers & DevOps
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -121,28 +125,37 @@ Developing event management and ticketing platforms with Laravel, Filament, paym
 
 Exploring Retrieval-Augmented Generation, Python AI applications and intelligent software systems.
 
-### 📡 Kafka & Distributed Systems
+### 📡 Kafka & RabbitMQ Systems
 
-Building event-driven applications and learning reliable message processing using Apache Kafka.
+Building event-driven applications and learning reliable message processing with Apache Kafka and RabbitMQ.
 
 ### 🌐 Full-Stack Web Applications
 
-Developing practical web applications with modern backend and frontend technologies.
+Developing practical web applications using Laravel, PHP, JavaScript, React, Node.js and relational databases.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharithManaujayaMUTEC&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Charith's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CharithManaujayaMUTEC&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="Charith's GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=CharithManaujayaMUTEC&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=CharithManaujayaMUTEC&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
+    alt="Charith's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithManaujayaMUTEC&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithManaujayaMUTEC&theme=tokyonight&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800"
+    alt="Charith's Top Languages"
+  />
 </p>
 
 ---
@@ -151,9 +164,18 @@ Developing practical web applications with modern backend and frontend technolog
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
@@ -162,17 +184,21 @@ Developing practical web applications with modern backend and frontend technolog
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharithManaujayaMUTEC&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CharithManaujayaMUTEC&theme=tokyo-night&hide_border=false&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Goals
 
 - 🚀 Build scalable and impactful software.
 - 🤖 Explore advanced AI and RAG systems.
 - 📊 Master Data Engineering and Distributed Systems.
-- ☁️ Improve Cloud and DevOps skills.
+- 📨 Improve Kafka and RabbitMQ knowledge.
+- ⚙️ Improve Cloud, Linux, cPanel and DevOps skills.
 - 🌍 Contribute to Open Source.
 - 📚 Keep learning and growing.
 
