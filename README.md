@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Charith Manujaya</h1>
 
 <h3 align="center">
-  Computer Engineering Graduate | Full-Stack Developer | AI & Data Engineering Enthusiast
+  Computer Engineering Graduate | Full-Stack Developer | DevOps Engineer | Cloud Engineer | AI & Data Engineering Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+Data+Engineering+Enthusiast;Distributed+Systems+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Engineering+Graduate;Full-Stack+Developer;DevOps+Engineer;Cloud+Engineer;AI+%26+Data+Engineering+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### 🤖 AI, Data & Distributed Systems
+### 🤖 AI & Data Engineering
 
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
@@ -83,13 +83,24 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-### ⚙️ Tools, Servers & DevOps
+### ☁️ Cloud Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+### ⚙️ DevOps, Servers & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -101,19 +112,23 @@
 
 ### 🌐 Full-Stack Web Applications
 
-Developing practical web applications using Laravel, PHP, JavaScript, React, Node.js and relational databases.
+Developing practical and scalable web applications using Laravel, PHP, JavaScript, React, Node.js and relational databases.
 
 ### 🎫 Event & Ticketing Systems
 
-Developing event management and ticketing platforms with Laravel, Filament, payment workflows and seat management.
+Developing event management and ticketing platforms with Laravel, Filament, payment workflows, seat management and administrative dashboards.
 
 ### 🤖 AI & RAG Applications
 
-Exploring Retrieval-Augmented Generation, Python AI applications and intelligent software systems.
+Exploring Retrieval-Augmented Generation, Python-based AI applications, machine learning workflows and intelligent software systems.
 
-### 📡 DevOps and CI/CD
+### ⚙️ DevOps Engineering
 
-Maintaining and building devops structutres and CI/CD pipelines
+Building CI/CD pipelines, automating deployments, managing application servers and improving software delivery workflows using GitHub Actions, Docker and Linux.
+
+### ☁️ Cloud Engineering
+
+Exploring cloud infrastructure, application hosting, deployment automation, server configuration and scalable cloud-based solutions.
 
 ---
 
@@ -121,21 +136,21 @@ Maintaining and building devops structutres and CI/CD pipelines
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CharithManaujayaMUTEC&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=CharithManaujayaMUTEC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Charith's GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.demolab.com?user=CharithManaujayaMUTEC&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
+    src="https://github-readme-streak-stats.demolab.com/?user=CharithManaujayaMUTEC&theme=tokyonight&hide_border=true"
     alt="Charith's GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithManaujayaMUTEC&theme=tokyonight&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithManaujayaMUTEC&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"
     alt="Charith's Top Languages"
   />
 </p>
@@ -150,13 +165,15 @@ Maintaining and building devops structutres and CI/CD pipelines
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake-dark.svg"
     />
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg"
     />
+
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/CharithManaujayaMUTEC/CharithManaujayaMUTEC/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
@@ -167,10 +184,21 @@ Maintaining and building devops structutres and CI/CD pipelines
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CharithManaujayaMUTEC&theme=tokyo-night&hide_border=false&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CharithManaujayaMUTEC&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Contribution Activity Graph"
   />
 </p>
+
+---
+
+## 💡 Current Focus
+
+- Building scalable full-stack applications
+- Improving DevOps and CI/CD workflows
+- Exploring cloud engineering and infrastructure
+- Learning AI, machine learning and RAG systems
+- Developing reliable backend and data engineering solutions
+- Continuously learning new technologies
 
 ---
 
